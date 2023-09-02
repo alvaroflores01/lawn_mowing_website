@@ -9,7 +9,7 @@ import Footer from "../components/Footer";
 import DeveloperSignature from "../components/DeveloperSignature";
 function Home() {
   return (
-    <div className="bg-gray-100">
+    <div className="bg-gray-50">
       <div className="h-screen">
         <Navbar />
         <Banner />
@@ -28,12 +28,11 @@ function Home() {
         subtitle="From meticulous mowing to expert landscaping, our services guarantee a vibrant and well-maintained lawn you'll love."
       />
       <SectionItems />
-      <div className="bg-gray-500" id="contact">
+      <div className="bg-gray-900" id="contact">
         <SectionTitle
           title="CONTACT US"
           subtitle="Feel free to reach out to us with any questions or inquiries. We're here to help!"
           color="white"
-          bgColor="bg-gray-900"
         />
         <ContactSection />
         <Footer />
