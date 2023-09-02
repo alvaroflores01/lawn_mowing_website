@@ -1,6 +1,6 @@
 const Banner = () => {
   return (
-    <div className="sm:h-5/6 h-5/6 bg-[url('./assets/bannerimg.jpeg')] bg-cover  ">
+    <div className=" h-5/6 bg-[url('./assets/bannerimg.jpeg')] bg-cover  ">
       <div className="backdrop-brightness-50 h-full w-full flex justify-center items-center">
         <div className="text-center">
           <h1 className="text-white font-extrabold sm:text-3xl text-2xl">
