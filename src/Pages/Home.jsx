@@ -28,11 +28,12 @@ function Home() {
         subtitle="From meticulous mowing to expert landscaping, our services guarantee a vibrant and well-maintained lawn you'll love."
       />
       <SectionItems />
-      <div className="bg-gray-900" id="contact">
+      <div className="bg-gray-500" id="contact">
         <SectionTitle
           title="CONTACT US"
           subtitle="Feel free to reach out to us with any questions or inquiries. We're here to help!"
           color="white"
+          bgColor="bg-gray-900"
         />
         <ContactSection />
         <Footer />
