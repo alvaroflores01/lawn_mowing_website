@@ -7,7 +7,7 @@ const Banner = () => {
             TURNING ORDINARY LAWNS INTO EXTRAORDINARY LANDSCAPES
           </h1>
           <p className="text-white font-light text-sm sm:text-lg">
-            PREMIER NATIONAL LAWN SERVICES COMPANY
+            PREMIER NATIONAL LAWN SERVICES
           </p>
         </div>
       </div>
