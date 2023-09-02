@@ -9,7 +9,7 @@ import Footer from "../components/Footer";
 import DeveloperSignature from "../components/DeveloperSignature";
 function Home() {
   return (
-    <div className="bg-gray-900">
+    <div className="">
       <div className="h-screen">
         <Navbar />
         <Banner />
