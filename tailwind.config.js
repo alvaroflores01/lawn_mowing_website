@@ -3,7 +3,7 @@ export default {
   content: [
     "./src/*.jsx",
     "./src/components/*.jsx",
-    "./src/pages/*.jsx",
+    "./src/Pages/*.jsx",
   ],
   theme: {
     extend: {},
